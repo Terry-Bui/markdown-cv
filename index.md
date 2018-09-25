@@ -96,6 +96,6 @@ Prototyped a mobile application in React Native, the application aims to help in
 
 <!-- ### Footer
 
-Last updated: May 2018 -->
+Last updated: Sep 2018 -->
 
 
