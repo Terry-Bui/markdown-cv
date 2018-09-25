@@ -1,91 +1,105 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Terry Bui
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Terry Bui 
+Software Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:terry.bui@mq.edu.au">terry.bui@mq.edu.au</a>
+| <a href="https://github.com/Terry-Bui">My github page</a>
 </div>
 
 
-## Currently
+## Professional Profile 
 
-Standing on the shoulders of giants
+**Test**
 
-### Specialized in
+Hello
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Graduate of Bachelor of IT (Software Technology) with strong interest in algorithm theory and web
+development.
 
+Experience in software development, primarily in front-end web development for a research
+project at Macquarie University.
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Teaching experience in first year computer introductory and object-oriented programming
+courses, using Java as the main teaching tools. 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+Bachelor of Information Technology, Macquarie University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2015-2018`
 
-- Sizar
+GPA 3.79/4.00
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Courses include compiler theory, algorithm theory and design, natural language processing, database
+systems, security and cryptography, and introductory data science. 
 
 
+## Professional Experience
 
-## Awards
+**Assistant Software Developer**
 
-`2012`
-President, *Royal Society*, London, UK
+`Apr 2017`
 
-Associate, *French Academy of Science*, Paris, France
+Department of Ancient History, Macquarie University
 
+Developer on the FAIMS project (https://www.fedarch.org/). 
 
+The aim of the FAIMS project is to provide
+customisable mobile app for researchers to aid on-field data collection.
 
-## Publications
+Responsibilities includes:
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Understanding client specification and translating it to FAIMS DSL (based on
+XML)
+- End-to-end testing and debugging Android modules
+- Designing a data-driven webpage for field projects. 
 
-### Journals
+**Academic Tutor**
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`Dec 2017`
 
-`1669`
-Lectiones opticæ.
+Department of Computing, Macquarie University
 
-etc. etc. etc.
+Tutor for first year introductory prgramming courses at Macquarie University, using Processing to teach basic programming concepts and Java for object-oriented programming and fundamental algorithms in the advanced course.
 
-### Patents
+**Assistant Tutor**
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Mar-May 2017`
 
+Department of Computing, Macquarie University
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Student peer-tutor for a second-year web-development course, using the Bottle framework (Python based)
+to teach the basics of building a web server, web security, and interactive web design using
+Javascript. 
 
 
+<div style="page-break-after: always;"></div>
+
+## Extra-Curricular Activities 
+
+**CYSCA - Cyber Security Challenge Australia**
+
+Member of a team representing Macquarie University in Cyber Security Challenge Australia 2017, a
+yearly hacking/security competition for undergraduate students sponsored by the Office of the Prime
+Minister. 
+
+**ACM International Collegiate Programming Competition**
+
+Participated in training and organising the ACM-ICPC events in 2017 and 2018. The ACM-ICPC is a yearly
+world-wide programming olympiad for undergraduate students, using Java, C/C++, and Python as the
+main languages. 
+
+
+**Big Data Society Hackathon**
+
+Prototyped a mobile application in React Native, the application aims to help in mental-health-disorders detection from social networks. 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2018 -->
 
 
