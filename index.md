@@ -13,10 +13,6 @@ Software Developer.
 
 ## Professional Profile 
 
-**Test**
-
-Hello
-
 Graduate of Bachelor of IT (Software Technology) with strong interest in algorithm theory and web
 development.
 
