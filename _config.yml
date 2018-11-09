@@ -1,2 +1,5 @@
 markdown:   kramdown
 style: terrybui 
+
+exclude:
+    - terry-bui-cv.pdf
