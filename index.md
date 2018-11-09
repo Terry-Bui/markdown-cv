@@ -24,7 +24,7 @@ courses, using Java as the main teaching tools.
 
 ## Education
 
-`2015-2018`
+`2015-2017`
 
 **Bachelor of Information Technology, Macquarie University**
 
@@ -75,8 +75,6 @@ Student peer-tutor for a second-year web-development course, using the Bottle fr
 to teach the basics of building a web server, web security, and interactive web design using
 Javascript. 
 
-<div style="page-break-after: always;"></div>
-
 ## Extra-Curricular Activities 
 
 `2017`
@@ -104,5 +102,4 @@ Prototyped a mobile application in React Native, the application aims to help in
 <!-- ### Footer
 
 Last updated: Sep 2018 -->
-
 

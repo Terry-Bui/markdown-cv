@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 
 # This script build the site to _site directory. Then using pandoc take in the resume in html
 # format and output it as a pdf file.
