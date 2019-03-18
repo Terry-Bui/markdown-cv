@@ -3,23 +3,23 @@ layout: cv
 title: Terry Bui
 ---
 # Terry Bui 
-Software Developer.
+Graduate cybersecurity professional with a passion for software development.
 
 <div id="webaddress">
-<a href="mailto:terry.bui@mq.edu.au">terry.bui@mq.edu.au</a>
+<a href="mailto:bui.terry@outlook.com">bui.terry@outlook.com</a>
 | <a href="https://github.com/Terry-Bui">My github page</a>
 </div>
 
 
 ## Professional Profile 
 
-Graduate of Bachelor of IT (Software Technology) with strong interest in algorithm theory and web
-development.
+Graduate of Bachelor of IT (Software Technology) who is currently working in cybersecurity industry
+with strong interest in algorithm theory and web development.
 
 Experience in software development, primarily in front-end web development for a research
-project at Macquarie University.
+project at Macquarie University and server side Javascript in personal projects.
 
-Teaching experience in first year computer introductory and object-oriented programming
+Teaching experience in first year computing and object-oriented programming
 courses, using Java as the main teaching tools. 
 
 ## Education
@@ -37,23 +37,20 @@ systems, security and cryptography, and introductory data science.
 
 ## Professional Experience
 
-`Apr 2017`
+`Feb 2019`
 
-**Assistant Software Developer**
+**Associate Information Security**
 
-Department of Ancient History, Macquarie University
+Cybersecurity, DXC Technology
 
-Developer on the FAIMS project (https://www.fedarch.org/). 
-
-The aim of the FAIMS project is to provide
-customisable mobile app for researchers to aid on-field data collection.
+Graduate Security Information and Event Management (SIEM) Engineer.
 
 Responsibilities include:
 
-- Understanding client specification and translating it to FAIMS DSL (based on
-XML)
-- End-to-end testing and debugging Android modules
-- Designing a data-driven webpage for field projects. 
+- Assisting with SIEM implementation, rule tuning and product research.
+- Engaging with stakeholders to update Sharepoint site, in order to improve team collaboration and workflow process.
+- Designing and developing a prototype site for Sharepoint.
+
 
 `Dec 2017`
 
@@ -61,7 +58,26 @@ XML)
 
 Department of Computing, Macquarie University
 
-Tutor for first year introductory prgramming courses at Macquarie University, using Processing to teach basic programming concepts and Java for object-oriented programming and fundamental algorithms in the advanced course.
+Tutor for first year introductory programming courses at Macquarie University, using Processing to teach basic programming concepts, and Java for object-oriented programming and fundamental algorithms in the advanced course.
+
+`Apr 2017 - Dec 2018`
+
+**Assistant Software Developer**
+
+Department of Ancient History, Macquarie University
+
+Developer for the FAIMS project (https://www.fedarch.org/). 
+
+The aim of the FAIMS project is to provide a
+customisable mobile app for researchers to aid on-field data collection.
+
+Responsibilities include:
+
+- Understanding client specification and translating it to FAIMS DSL (based on
+XML).
+- End-to-end testing and debugging Android modules.
+- Designing a data-driven webpage for field projects. 
+
 
 <p></p>
 
@@ -97,7 +113,18 @@ main languages.
 
 **Big Data Society Hackathon**
 
-Prototyped a mobile application in React Native, the application aims to help in mental-health-disorders detection from social networks. 
+Prototyped a mobile application in React Native, the application aims to help in mental disorders detection from social networks. 
+
+## Software Projects
+
+**Random Restaurant Web App**
+- Developing a web application using React, NodeJS which allow users to find a random restaurant near a given location.
+- Utilise: Serverless web stack, React, NodeJS, Google Cloud Function, AWS S3, Docker, Continuous Integration (CI).
+
+**iOS Productivity and Habit Management App**
+
+- Developing an iOS application using Swift which allow users to create timers and track habits.
+- Utilise: Swift.
 
 <!-- ### Footer
 
