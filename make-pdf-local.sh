@@ -11,4 +11,4 @@ output_file="terry-bui-cv.pdf"
 
 jekyll build
 # The title:"" is to prevent pandoc from adding the title.
-pandoc $input_file -t html5 -o  $output_file --css=media/terrybui-print.css -V title:""
+pandoc $input_file -t html5 -V margin-top=2.5 -V margin-left=2.5 -V margin-right=2.5 -V margin-bottom=2.5 -V papersize=letter -o  $output_file --css=media/terrybui-print.css -V title:""
