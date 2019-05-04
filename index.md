@@ -118,15 +118,36 @@ Prototyped a mobile application in React Native, the application aims to help in
 ## Software Projects
 
 **Random Restaurant Web App**
-- Developing a web application using React, NodeJS which allow users to find a random restaurant near a given location.
-- Utilise: Serverless web stack, React, NodeJS, Google Cloud Function, AWS S3, Docker, Continuous Integration (CI).
+- Web application using React, NodeJS which allow users to find a random restaurant near a given location.
+- Utilise: Serverless web stack, React, NodeJS, Flow, Google Cloud Function, AWS S3, CloudFront, CloudFormation, Docker, Continuous Integration (CI).
 
 **iOS Productivity and Habit Management App**
 
-- Developing an iOS application using Swift which allow users to create timers and track habits.
+- An iOS application using Swift which allow users to create timers and track habits.
 - Utilise: Swift.
+
+**Cache Me Outside**
+
+- REST API Wrapper for Google Place API.
+- Utilised: NodeJS, Express, Redis, Docker, Docker Compose.
+
+**Cafe Loyalty App (University Project)**
+- Prototype mobile application for Café Shenkin, tranforming their current paper-base café loyalty system into a mobile application.
+- Leader in a team of five, in the role of project manager and programmer.
+- Led the team through numerous sprints, client discussions and delegated tasks accordingly.
+- Utilised: Swift, Firebase.
+
+**Hipster (University Project)**
+- Implemented domain specific language for programming cellular automata according to assignment specification.
+- Translate formal notations of software language properties into implementations of language processors.
+- Demonstrate that a language processor is operating correctly by construction and use of appropriate test cases.
+- Utlised: Scala, kiama library.
+
+**Photo Sharing (University Project)**
+- Photo sharing web app that allows a user to view, add and delete their uploaded images.
+- Utlised: Python, Bottle framework, SQLite.
 
 <!-- ### Footer
 
-Last updated: Sep 2018 -->
+Last updated: May 2019 -->
 
